@@ -1,1 +1,18 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="9-YdOEb`f5g_+=z41BD[" x="0" y="0"></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="pt9z.T;m$,a.hG5A3@Cm">num</variable><variable id="G4NhH=toP?6P:G):Hy|`">mySprite</variable></variables><block type="pxt-on-start" id="9-YdOEb`f5g_+=z41BD[" x="-146" y="70"><statement name="HANDLER"><block type="run_image_animation" id="p5w(/uw|?04QIjN`!g)/"><value name="sprite"><block type="variables_get" id="=(fPm(m8r0Nw:3roG{xy"><field name="VAR" id="G4NhH=toP?6P:G):Hy|`">mySprite</field></block></value><value name="frames"><shadow type="animation_editor" id="h,~%`;zN._,^RY^%+V]0"><field name="frames">[img`
+. 9 9 9 9 9 9 9 9 9 9 9 . . . . 
+. 9 9 9 9 9 9 9 9 9 9 9 . . . . 
+. 9 4 4 9 9 9 9 9 9 9 9 . . . . 
+. 4 4 9 9 9 9 9 3 9 9 . . . . . 
+. 4 9 4 9 9 9 9 9 3 9 . . . . . 
+. 4 4 4 9 9 f 9 9 9 . . . . . . 
+. 9 9 9 9 9 9 f 9 9 9 9 9 9 9 . 
+. 9 9 9 9 9 9 9 9 f f f . . . . 
+. 9 9 9 9 9 9 9 9 9 9 9 9 . . . 
+. . 9 9 9 9 . . 9 9 9 . . . . . 
+. . . . 9 9 9 9 . . . . . . . . 
+. . . . 9 . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+`]</field><data>{"commentRefs":[],"fieldData":{"frames":null}}</data></shadow></value><value name="frameInterval"><shadow type="timePicker" id="QXkVG09_qc_Bdh69=ju4"><field name="ms">500</field></shadow></value><value name="loop"><shadow type="toggleOnOff" id="QLYAJMtaq)nP7zgf+wR?"><field name="on">true</field></shadow></value></block></statement></block></xml>
